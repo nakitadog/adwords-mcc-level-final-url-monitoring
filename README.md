@@ -1,2 +1,3 @@
 # adwords-mcc-level-final-url-monitoring
-Monitors all final URLs including sitelinks within select client accounts within your MCC account. 
+
+Simple AdWords script for monitoring all final URLs including sitelinks within select client accounts from an MCC account level. 
